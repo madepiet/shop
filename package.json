@@ -1,0 +1,23 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madepiet/shop.git"
+  },
+  "author": "Piotr Madej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madepiet/shop/issues"
+  },
+  "homepage": "https://github.com/madepiet/shop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
